@@ -1,0 +1,10 @@
+Flask
+torch
+torchvision
+numpy
+Pillow
+werkzeug
+google-generativeai
+opencv-python-headless
+requests
+python-dotenv
